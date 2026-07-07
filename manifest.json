@@ -30,5 +30,10 @@
 
     "background": {
         "scripts": ["background.js"]
+    },
+
+    "action": {
+        "default_title": "Addiction Stopper",
+        "default_popup": "pupup/index.html"
     }
 }
